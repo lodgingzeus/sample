@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:rsksindia.blog)",
+      "WebFetch(domain:rsksindia.ngo)",
+      "mcp__chrome-devtools__new_page",
+      "mcp__chrome-devtools__take_screenshot"
+    ]
+  }
+}
